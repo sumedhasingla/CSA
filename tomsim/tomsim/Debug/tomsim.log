@@ -1,0 +1,9 @@
+﻿  tomsim.cpp
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(404): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(435): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(637): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(697): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(748): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sumes\documents\visual studio 2015\projects\tomsim\tomsim\tomsim.cpp(800): warning C4018: '<=': signed/unsigned mismatch
+  tomsim.vcxproj -> C:\Users\sumes\Documents\Visual Studio 2015\Projects\tomsim\Debug\tomsim.exe
+  tomsim.vcxproj -> C:\Users\sumes\Documents\Visual Studio 2015\Projects\tomsim\Debug\tomsim.pdb (Full PDB)
